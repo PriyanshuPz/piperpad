@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9","9","SK6812 Mini","","","","LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm","https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9","9","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB","~"
+"U1","1","XIAO-RP2040-DIP","","","","OPL:XIAO-RP2040-DIP",""
