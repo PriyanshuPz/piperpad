@@ -8,7 +8,7 @@ It is built to make secure passcode patterns with different Led lights.
 
 ## Hackpad Overview
 
-![Overall Hackpad](assets/pcb_front.png)
+![Overall Hackpad](assets/piperpad_v1.png)
 
 ---
 
@@ -20,26 +20,13 @@ It is built to make secure passcode patterns with different Led lights.
 
 ## PCB
 
-**Front:**
-
-![PCB Front](assets/pcb_front.png)
-
-**Back:**
-
-![PCB Back](assets/pcb_back.png)
-
+![PCB Front](assets/pcb.png)
 
 ---
 
 ## Case Design
 
-**Top:**
-
-![Case Top](assets/case_top.png)
-
-**Bottom:**
-
-![Case Bottom](assets/case_bottom.png)
+![Case Top](assets/case.png)
 
 ---
 
