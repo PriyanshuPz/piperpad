@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "piperpad.step",
+      "step": "../cad/piperpad.step",
       "svg": "",
       "vrml": ""
     },
