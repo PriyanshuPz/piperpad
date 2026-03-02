@@ -32,7 +32,7 @@ It is built to make secure passcode patterns with different Led lights.
 
 ## Firmware
 
-> Firmware is not complete only test code for now, will update code when I get physical materials to work on.
+> Firmware is not complete only test code for now, will update ASAP..
 
 
 Pz~
