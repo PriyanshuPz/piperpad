@@ -4,6 +4,8 @@ a tiny 3×3 hackpad with per-key RGB light.
 Each of the 9 keys has its own RGB LED. Instead of just pressing buttons, you can enter **sequences** and **patterns** that unlock behaviors, layers, or macros.
 It is built to make secure passcode patterns with different Led lights.
 
+IN_PROGRESS
+
 ---
 
 ## Hackpad Overview
