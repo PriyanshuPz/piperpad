@@ -33,5 +33,5 @@ It is built to make secure passcode patterns with different Led lights.
 
 ## Firmware
 
-> Firmware is not complete only test code for now, will update ASAP..
+> Firmware is almost done
 
